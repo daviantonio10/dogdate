@@ -1,5 +1,5 @@
 ## O que é o projeto?
-Esse é um clone do tinder, Um clone do Tinder geralmente tem as mesmas funcionalidades que o aplicativo original do Tinder. Algumas das funcionalidades incluem:
+Esse é um clone do tinder, um clone do Tinder geralmente tem as mesmas funcionalidades que o aplicativo original do Tinder. Algumas das funcionalidades incluem:
 
 ✅Registro e login de usuários
 
